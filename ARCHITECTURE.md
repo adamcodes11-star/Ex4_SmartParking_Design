@@ -13,8 +13,7 @@
 | **Student A (Role A)** | Adam Ziad | 325488559 | Adam.zayyad@e.braude.ac.il |
 | **Student B (Role B)** | Jiryes Daood | 213559677 | Jiryes.Daood@e.braude.ac.il |
 
-* **Group Number:** `G[XX]`
-* **GitHub Repository URL:** `https://github.com/[Username]/Ex4_SmartParking_Design`
+* **GitHub Repository URL:** https://github.com/adamcodes11-star/Ex4_SmartParking_Design
 
 ---
 
